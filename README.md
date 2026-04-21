@@ -1,16 +1,23 @@
-## Hi there 👋
+# Saludo o Titulo de Presentacion
 
-<!--
-**Marary-1012/Marary-1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Buenos dias bienvenidos a sus clases con Prof Morena Martinez
 
-Here are some ideas to get you started:
+#  Sobre mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola, soy Morena Martinez, soy una profesora de programacion con experiencia en el campo de seguridad Informatica, actualmente estudio en la Formacion Docentes.
+
+# Tecnologias y Herramientas
+
+- N8n
+- ChatGPT
+- n8n
+- Gemini    
+
+# Proyectos Destacados
+ " Atomatizacion de Donaciones de Alimentos"
+ Consiste en crear un flujo en n8n para regirtara y enviar un mensaje de confirmacion de la donacion que se reccibe de los estudiantes.
+
+ # Contactos
+Mail:[zoila.morena.martinez@clases.edu.sv]
+
+
